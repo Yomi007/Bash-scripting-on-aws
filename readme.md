@@ -1,3 +1,3 @@
-## creating an aws usage report with bash scripting
+## Creating an aws usage report with bash scripting
 
 ## Requirements
